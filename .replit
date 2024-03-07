@@ -2,7 +2,7 @@ modules = ["python-3.10:v25-20230920-d4ad2e4"]
 
 
 # ****   for vensun web project   ****
-run = "python vensun.py"
+run = "python test_db_run.py"
 
 # ****   for default  ****
 #run = "python app.py"
