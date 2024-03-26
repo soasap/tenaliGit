@@ -1,4 +1,0 @@
-pip install Flask
-pip install sqlalchemy
-pip install pymysql
-pip install Flask-Mail
